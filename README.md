@@ -1,1 +1,2 @@
-# c21bounceOff
+# collisionAlgorithm
+Algorithm to detect collision between two objects
